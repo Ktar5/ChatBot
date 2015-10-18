@@ -1,0 +1,4 @@
+name: ${plugin.name}
+main: ${plugin.mainClass}
+version: 1.0
+author: Ktar5
